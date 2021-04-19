@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sean-Thomo
-- 👀 I’m interested in Software Engineering and Full-Stack Web Development
-- 🌱 I’m currently learning Full-Stack Web Development and Software Engineering
+- 👀 I’m interested in Full-Stack Development
+- 🌱 I’m currently learning Full-Stack Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me seansthomo@gmail.com
 
