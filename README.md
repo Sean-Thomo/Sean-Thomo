@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sean Thomo.
 - 👀 I’m interested in Software Development.
-- 🌱 I’m currently learning Full-Stack Development using JavaScript.
+- 🌱 I’m currently a software engineering student @WeThinkCode_.
 - 📫 How to reach me seansthomo@gmail.com
 
 <!---
