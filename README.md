@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Siphesihle Thomo.
-- 👀 I’m interested in Software Development.
-- 🌱 I’m currently a software engineering student @WeThinkCode_.
+- 👀 I’m a Software Developer.
 - 📫 How to reach me seansthomo@gmail.com
 
 <!---
